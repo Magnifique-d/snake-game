@@ -2,7 +2,7 @@
 
 - If you see the following issue, you will need to install Pygame:
 
-"C:\Users\CodaKid\Desktop\SAM_PROJECT_FOLDER\src\main.py", line 1, in <module>
+"C:\Users\Desktop\Python\src\main.py", line 1, in <module>
 import pygame
 ModuleNotFoundError: No module named 'pygame'
 
